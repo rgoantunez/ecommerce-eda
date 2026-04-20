@@ -60,6 +60,7 @@ Se cuantificaron dos puntos críticos de pérdida de capital:
 
 ## 💡 Conclusión & Recomendación Estratégica
 El ecosistema de Olist es financieramente saludable con un flujo de caja dinámico basado en pagos de corto plazo. Sin embargo, la rentabilidad máxima está limitada por ineficiencias operativas.
+
 La recomendación estratégica se centra en la implementación de un **modelo de Fullfilment propio** en la región de San Pablo para capturar el margen perdido por stockouts y **mayor inverisón en desarrollo** que minimize errores técnicos (que en conjunto con la falta de stock rozan el 1% de las ventas). Esto permitiría eliminar la dependencia de vouchers compensatorios, transformando costos operativos en beneficios directos.
 
 ---
@@ -71,7 +72,8 @@ La recomendación estratégica se centra en la implementación de un **modelo de
 * **VS Code & Jupyter Notebook**: Entornos de desarrollo.
 
 ## 👨‍💻 Autor
-**Rodrigo Antúnez** Economista | Data Analyst en formación @ThePower Business School
+**Rodrigo Antúnez** 
+Economista | Data Analyst en formación @ThePower Business School
 
 🔗 [GitHub Profile](https://github.com/rgoantunez)  
 🔗 [Repositorio del Proyecto](https://github.com/rgoantunez/ecommerce-eda)
