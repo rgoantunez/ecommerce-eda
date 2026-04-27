@@ -1,4 +1,4 @@
-# 📊 E-commerce Performance Audit: Olist Brazil 🇧🇷
+# 📊 E-commerce Performance: Olist Brazil 🇧🇷
 ### Proyecto Final de Máster en Data Analytics
 
 Este repositorio contiene un análisis integral de la performance operativa y financiera de **Olist**, el mayor ecosistema de marketplaces en Brasil. A través de un enfoque basado en datos, se audita el flujo completo desde la captura de la orden hasta la entrega final, identificando ineficiencias que impactan directamente en el margen neto y la salud financiera de la compañía.
@@ -11,10 +11,11 @@ Este repositorio contiene un análisis integral de la performance operativa y fi
 ## 📂 Estructura del Repositorio
 * `/data` contiene los archivos en bruto: `customers.csv`, `orders.csv`, `order-items.csv`, `order-payments.csv`,  `order-reviews.csv` dentro de la subcarpeta `/raw` y los datasets finales procesados: `ecommerce-limpio.csv`, `ecommerce-for-dashboard.csv`, `eda-for-dashboard.csv` en la subcarpeta `/output`.
 * `/notebooks`: Incluye los archivos de desarrollo modular:
-    * `01-limpieza-transformacion.ipynb`: Proceso de ETL y Feature Engineering.
-    * `02-eda.ipynb`: Exploración inicial de variables.
-    * `03-ecommerce-eda.py`: Script avanzado de análisis estratégico y ROI.
-    * `04-pre-dashboard.ipynb`: Preparación de datos sintéticos para visualización.
+    * `01-limpieza-transformacion.ipynb`: Proceso de ETL y preparación del dataframe unificado.
+    * `02-eda.ipynb`: Exploración y desarrollo del análisis (EDA).
+    * `03-ecommerce-eda.py`: EDA script en formato python. 
+    * `04-pre-dashboard.ipynb`: Preparación de datos sintéticos para visualización en Power BI.
+    * `05-dashboard-ecommerce.pbit`: Desarrollo del dashboard interactivo del proyecto en Power BI.
 * `README.md`: Descripción del proyecto e Informe Analítico.
 
 ---
@@ -58,7 +59,11 @@ Se cuantificaron dos puntos críticos de pérdida de capital:
 
 ---
 
-## 💡 Conclusión & Recomendación Estratégica
+### 📊 Dashboard Interactivo
+Explora el informe interactivo aquí: [Ver Dashboard de E-commerce](TU_LINK_DE_POWER_BI_AQUÍ)
+add image
+
+## 💡 Conclusión y Recomendación Estratégica
 El ecosistema de Olist es financieramente saludable con un flujo de caja dinámico basado en pagos de corto plazo. Sin embargo, la rentabilidad máxima está limitada por ineficiencias operativas.
 
 La recomendación estratégica se centra en la implementación de un **modelo de Fullfilment propio** en la región de San Pablo para capturar el margen perdido por stockouts y **mayor inverisón en desarrollo** que minimize errores técnicos (que en conjunto con la falta de stock rozan el 1% de las ventas). Esto permitiría eliminar la dependencia de vouchers compensatorios, transformando costos operativos en beneficios directos.
