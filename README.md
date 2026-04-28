@@ -1,4 +1,4 @@
-# 📊 E-commerce Logistic & Financial Analysis: Olist Brazil 🇧🇷
+# 📊 E-commerce Logistic & Financial Analysis: Olist Brazil
 ### Proyecto Final de Máster en Data Analytics
 
 Este repositorio contiene un análisis integral de la performance operativa y financiera de **Olist**, el mayor ecosistema de marketplaces en Brasil. A través de un enfoque basado en datos, se audita el flujo completo desde la captura de la orden hasta la entrega final, identificando ineficiencias que impactan directamente en el margen neto y la salud financiera de la compañía.
