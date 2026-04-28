@@ -81,7 +81,8 @@ La recomendación estratégica se centra en la implementación de un **modelo de
 * **Power BI**: Visualización interactiva.
 
 ## 👨‍💻 Autor
-**Rodrigo Antúnez** 
+**Rodrigo Antúnez**
+
 Economista | Data Analyst en formación @ThePower Business School
 
 🔗 [GitHub Profile](https://github.com/rgoantunez)  
