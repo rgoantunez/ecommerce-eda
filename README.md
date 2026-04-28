@@ -62,7 +62,11 @@ Se cuantificaron dos puntos críticos de pérdida de capital:
 
 ---
 
-## 💡 Conclusión & Recomendación Estratégica
+### 📊 Dashboard Interactivo
+Explora el informe interactivo aquí: [Ver Dashboard de E-commerce](https://app.powerbi.com/groups/me/reports/12b3cc29-4cc6-4031-8bee-a09c70cd2b96/6a8654f8209976b9607c?experience=power-bi)
+![Vista Previa del Dashboard](./notebooks/dashboard-powerbi.png)
+
+## 💡 Conclusión y Recomendación Estratégica
 El ecosistema de Olist es financieramente saludable con un flujo de caja dinámico basado en pagos de corto plazo. Sin embargo, la rentabilidad máxima está limitada por ineficiencias operativas.
 
 La recomendación estratégica se centra en la implementación de un **modelo de Fullfilment propio** en la región de San Pablo para capturar el margen perdido por stockouts y **mayor inverisón en desarrollo de la plataforma** que minimize errores técnicos, que en conjunto con la falta de stock rozan el 1% de las ventas. Esto permitiría reducir la emisión de vouchers compensatorios, transformando costos operativos en beneficios directos.
