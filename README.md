@@ -1,4 +1,4 @@
-# 📊 E-commerce Logistic & Financial Analysis: Olist Brazil
+# 📊 E-commerce Logistic & Financial Analysis: *Olist Brazil*
 ### Proyecto Final de Máster en Data Analytics
 
 Este repositorio contiene un análisis integral de la performance operativa y financiera de **Olist**, el mayor ecosistema de marketplaces en Brasil. A través de un enfoque basado en datos, se audita el flujo completo desde la captura de la orden hasta la entrega final, identificando ineficiencias que impactan directamente en el margen neto y la salud financiera de la compañía.
@@ -8,7 +8,7 @@ Este repositorio contiene un análisis integral de la performance operativa y fi
 * **Generar un reporte de salud financiera:** Cuantificación de ingresos (GMV), costos logísticos y análisis de beneficios.
 * **Determinar posibles insights de las ventas:** Identificación de estacionalidad, preferencias de financiación del usuario, comportamiento de los métodos de pago y segmentación regional.
 
-## 📂 Estructura del Repositorio
+## 🗂 Estructura del Repositorio
 * `/data` contiene los archivos en bruto: `customers.csv`, `orders.csv`, `order-items.csv`, `order-payments.csv`,  `order-reviews.csv` dentro de la subcarpeta `/raw` y los datasets finales procesados: `ecommerce-limpio.csv`, `ecommerce-for-dashboard.csv`, `eda-for-dashboard.csv` en la subcarpeta `/output`.
 * `/notebooks`: Incluye los archivos de desarrollo modular:
     * `01-limpieza-transformacion.ipynb`: Proceso de ETL y preparación del dataframe unificado.
@@ -47,7 +47,7 @@ La facturación histórica analizada asciende a **$20.57 millones de reales**.
 * **Hiper-concentración Regional:** El estado de **San Pablo (SP)** domina el 37.5% de la facturación global. El Sudeste (SP-RJ-MG-ES) concentra el **62.5% de los ingresos totales**, lo que define a la eficiencia logística en este eje como el principal driver de rentabilidad.
 * **Perfil de Financiación:** El **63.2%** de las ventas se financia en planes cortos (1-4 cuotas), favoreciendo la liquidez. Se identificó un techo estructural en las 12 cuotas, donde el volumen cae al 0.2%, sugiriendo limitaciones de crédito para bienes de alto valor.
 
-### 📉 Logística y Satisfacción
+### 🚚 Logística y Satisfacción
 El análisis revela una correlación directa y destructiva entre el incumplimiento logístico y la experiencia del cliente:
 * **Predictores de Detracción:** El retraso del transportista es el principal disparador de calificaciones de 1 estrella, con un promedio de 7 días de retrasos. El boxplot a continuación, representa la comparativa entre agentes responsables y magnitud de la ineficiencia logística.
   
@@ -62,9 +62,9 @@ Se cuantificaron dos puntos críticos de pérdida de capital:
 
 ---
 
-### 📊 Dashboard Interactivo
-Explora el informe interactivo aquí: [Ver Dashboard de E-commerce](https://app.powerbi.com/groups/me/reports/12b3cc29-4cc6-4031-8bee-a09c70cd2b96/6a8654f8209976b9607c?experience=power-bi)
+## 📊 Dashboard Interactivo
 ![Vista Previa del Dashboard](./notebooks/dashboard-powerbi.png)
+Explora el informe interactivo aquí: [Ver Dashboard de E-commerce](https://app.powerbi.com/groups/me/reports/12b3cc29-4cc6-4031-8bee-a09c70cd2b96/6a8654f8209976b9607c?experience=power-bi)
 
 ## 💡 Conclusión y Recomendación Estratégica
 El ecosistema de Olist es financieramente saludable con un flujo de caja dinámico basado en pagos de corto plazo. Sin embargo, la rentabilidad máxima está limitada por ineficiencias operativas.
